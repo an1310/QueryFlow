@@ -1,0 +1,15 @@
+transformers==4.38.0
+file:///home/esalter/Projects/OSS/beir/dist/beir-2.0.1.tar.gz
+datasets==2.14.1
+tqdm~=4.67.1
+scipy~=1.14.1
+evaluate==0.2.2
+spacy==3.7.2
+accelerate
+elasticsearch==7.17.9
+numpy~=1.26.4
+torch~=2.5.1
+pandas~=2.2.3
+faiss-cpu~=1.9.0.post1
+beir~=2.0.0
+sentencepiece>=0.1.99  # Required for Llama models
